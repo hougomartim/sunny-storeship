@@ -1,0 +1,650 @@
+********************************************************************************
+* DUPLICATOR-PRO: Install-Log
+* STEP-1 START @ 12:29:45
+* VERSION: 1.3.40
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+PACKAGE INFO________ CURRENT SERVER                         |ORIGINAL SERVER
+PHP VERSION_________: 7.2.11                                |7.3.11
+OS__________________: WINNT                                 |WINNT
+CREATED_____________: 2020-12-18 08:35:01
+WP VERSION__________: 5.6
+DUP VERSION_________: 1.3.40
+DB__________________: 10.1.36
+DB TABLES___________: 50
+DB ROWS_____________: 1,018
+DB FILE SIZE________: 3.53MB
+********************************************************************************
+SERVER INFO
+PHP_________________: 7.3.11 | SAPI: apache2handler
+PHP MEMORY__________: 4294967296 | SUHOSIN: disabled
+SERVER______________: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.3.11
+DOC ROOT____________: "C:/Program Files/Ampps/www"
+DOC ROOT 755________: true
+LOG FILE 644________: true
+REQUEST URL_________: "http://localhost/dup-installer/main.installer.php"
+********************************************************************************
+USER INPUTS
+ARCHIVE ENGINE______: "ziparchive"
+SET DIR PERMS_______: 0
+DIR PERMS VALUE_____: 644
+SET FILE PERMS______: 0
+FILE PERMS VALUE____: 755
+SAFE MODE___________: "0"
+LOGGING_____________: "1"
+CONFIG MODE_________: "NEW"
+FILE TIME___________: "current"
+********************************************************************************
+
+
+--------------------------------------
+ARCHIVE SETUP
+--------------------------------------
+NAME________________: "C:/Program Files/Ampps/www/storeship_godwpir_[HASH]_20201218083501_archive.zip"
+SIZE________________: 51.75MB
+
+PRE-EXTRACT-CHECKS
+- PASS: Apache '.htaccess' not found - no backup needed.
+- PASS: Microsoft IIS 'web.config' not found - no backup needed.
+- PASS: WordFence '.user.ini' not found - no backup needed.
+
+
+START ZIP FILE EXTRACTION STANDARD >>> 
+
+--------------------------------------
+ARCHIVE SETUP
+--------------------------------------
+NAME________________: "C:/Program Files/Ampps/www/storeship_godwpir_[HASH]_20201218083501_archive.zip"
+SIZE________________: 51.75MBFile timestamp set to Current: 2021-09-03 12:29:52
+<<< ZipArchive Unzip Complete: true
+--------------------------------------
+POST-EXTACT-CHECKS
+--------------------------------------
+
+PERMISSION UPDATES: None Applied
+
+STEP-1 COMPLETE @ 12:29:52 - RUNTIME: 7.3520 sec.
+
+
+
+********************************************************************************
+* DUPLICATOR-LITE INSTALL-LOG
+* STEP-2 START @ 12:32:30
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+USER INPUTS
+VIEW MODE___________: "basic"
+DB ACTION___________: "empty"
+DB HOST_____________: "**OBSCURED**"
+DB NAME_____________: "**OBSCURED**"
+DB PASS_____________: "**OBSCURED**"
+DB PORT_____________: "**OBSCURED**"
+NON-BREAKING SPACES_: false
+MYSQL MODE__________: "DEFAULT"
+MYSQL MODE OPTS_____: ""
+CHARSET_____________: "utf8"
+COLLATE_____________: "utf8_general_ci"
+COLLATE FB__________: false
+VIEW CREATION_______: true
+STORED PROCEDURE____: true
+********************************************************************************
+
+--------------------------------------
+DATABASE-ENVIRONMENT
+--------------------------------------
+MYSQL VERSION:	This Server: 8.0.18 -- Build Server: 10.1.36
+FILE SIZE:	dup-database__[HASH].sql (790.37KB)
+TIMEOUT:	5000
+MAXPACK:	1048576
+SQLMODE:	ONLY_FULL_GROUP_BY,STRICT_TRANS_TABLES,NO_ZERO_IN_DATE,NO_ZERO_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_ENGINE_SUBSTITUTION
+NEW SQL FILE:	[C:/Program Files/Ampps/www/dup-installer/dup-installer-data__[HASH].sql]
+COLLATE FB:	Off
+
+NOTICE: This servers version [8.0.18] is less than the build version [10.1.36].  
+If you find issues after testing your site please referr to this FAQ item.
+https://snapcreek.com/duplicator/docs/faqs-tech/#faq-installer-260-q
+[PHP ERR][WARN] MSG:count(): Parameter must be an array or an object that implements Countable [CODE:2|FILE:C:\Program Files\Ampps\www\dup-installer\ctrls\ctrl.s2.dbinstall.php|LINE:393]
+--------------------------------------
+DATABASE RESULTS
+--------------------------------------
+DB VIEWS:	enabled
+DB PROCEDURES:	enabled
+ERRORS FOUND:	0
+DROPPED TABLES:	0
+RENAMED TABLES:	0
+QUERIES RAN:	433
+
+wp_actionscheduler_actions: (3)
+wp_actionscheduler_claims: (0)
+wp_actionscheduler_groups: (1)
+wp_actionscheduler_logs: (9)
+wp_commentmeta: (0)
+wp_comments: (1)
+wp_duplicator_packages: (0)
+wp_links: (0)
+wp_options: (388)
+wp_postmeta: (329)
+wp_posts: (69)
+wp_tcb_api_error_log: (0)
+wp_td_fields: (16)
+wp_td_groups: (3)
+wp_term_relationships: (17)
+wp_term_taxonomy: (19)
+wp_termmeta: (1)
+wp_terms: (19)
+wp_usermeta: (39)
+wp_users: (1)
+wp_wc_admin_note_actions: (11)
+wp_wc_admin_notes: (11)
+wp_wc_category_lookup: (1)
+wp_wc_customer_lookup: (0)
+wp_wc_download_log: (0)
+wp_wc_order_coupon_lookup: (0)
+wp_wc_order_product_lookup: (0)
+wp_wc_order_stats: (0)
+wp_wc_order_tax_lookup: (0)
+wp_wc_product_meta_lookup: (6)
+wp_wc_reserved_stock: (0)
+wp_wc_tax_rate_classes: (2)
+wp_wc_webhooks: (0)
+wp_woocommerce_api_keys: (0)
+wp_woocommerce_attribute_taxonomies: (0)
+wp_woocommerce_downloadable_product_permissions: (0)
+wp_woocommerce_ir: (0)
+wp_woocommerce_log: (0)
+wp_woocommerce_order_itemmeta: (0)
+wp_woocommerce_order_items: (0)
+wp_woocommerce_payment_tokenmeta: (0)
+wp_woocommerce_payment_tokens: (0)
+wp_woocommerce_sessions: (1)
+wp_woocommerce_shipping_zone_locations: (0)
+wp_woocommerce_shipping_zone_methods: (0)
+wp_woocommerce_shipping_zones: (0)
+wp_woocommerce_tax_rate_locations: (0)
+wp_woocommerce_tax_rates: (0)
+wp_yith_wcwl: (0)
+wp_yith_wcwl_lists: (0)
+Removed '87' cache/transient rows
+
+INSERT DATA RUNTIME: 2.3657 sec.
+STEP-2 COMPLETE @ 12:32:32 - RUNTIME: 2.4106 sec.
+
+====================================
+SET SEARCH AND REPLACE LIST
+====================================
+
+
+********************************************************************************
+DUPLICATOR PRO INSTALL-LOG
+STEP-3 START @ 12:33:37
+NOTICE: Do NOT post to public sites or forums
+********************************************************************************
+CHARSET SERVER:	"utf8"
+CHARSET CLIENT:	"utf8"
+********************************************************************************
+OPTIONS:
+blogname______________: "خدای وردپرس"
+postguid______________: false
+fullsearch____________: false
+path_old______________: "C:/xampp2/htdocs/godwp"
+path_new______________: "C:/Program Files/Ampps/www"
+siteurl_______________: "http://localhost"
+url_old_______________: "http://127.0.0.1/godwp"
+url_new_______________: "http://localhost"
+maxSerializeStrlen____: 4000000
+replaceMail___________: false
+dbcharset_____________: "utf8"
+dbcollate_____________: "utf8_general_ci"
+wp_mail_______________: "info@admin.com"
+wp_nickname___________: ""
+wp_first_name_________: ""
+wp_last_name__________: ""
+ssl_admin_____________: false
+cache_wp______________: false
+cache_path____________: false
+exe_safe_mode_________: false
+config_mode___________: "NEW"
+********************************************************************************
+
+
+====================================
+RUN SEARCH AND REPLACE
+====================================
+
+EVALUATE TABLE: "wp_actionscheduler_actions"______________________[ROWS:     3][PG:   1][SCAN:text columns]
+	SEARCH  1:"C:/xampp2/htdocs/godwp" ==========================> "C:/Program Files/Ampps/www"
+	SEARCH  2:"C:\/xampp2\/htdocs\/godwp" =======================> "C:\/Program Files\/Ampps\/www"
+	SEARCH  3:"C%3A%2Fxampp2%2Fhtdocs%2Fgodwp" ==================> "C%3A%2FProgram+Files%2FAmpps%2Fwww"
+	SEARCH  4:"C:\xampp2\htdocs\godwp" ==========================> "C:/Program Files/Ampps/www"
+	SEARCH  5:"C:\\xampp2\\htdocs\\godwp" =======================> "C:\/Program Files\/Ampps\/www"
+	SEARCH  6:"C%3A%5Cxampp2%5Chtdocs%5Cgodwp" ==================> "C%3A%2FProgram+Files%2FAmpps%2Fwww"
+	SEARCH  7:"//127.0.0.1/godwp" ===============================> "//localhost"
+	SEARCH  8:"\/\/127.0.0.1\/godwp" ============================> "\/\/localhost"
+	SEARCH  9:"%2F%2F127.0.0.1%2Fgodwp" =========================> "%2F%2Flocalhost"
+	SEARCH 10:"https://localhost" ===============================> "http://localhost"
+	SEARCH 11:"https:\/\/localhost" =============================> "http:\/\/localhost"
+	SEARCH 12:"https%3A%2F%2Flocalhost" =========================> "http%3A%2F%2Flocalhost"
+
+EVALUATE TABLE: "wp_actionscheduler_claims"_______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_actionscheduler_groups"_______________________[ROWS:     1][PG:   1][SCAN:text columns]
+	SEARCH  1:"C:/xampp2/htdocs/godwp" ==========================> "C:/Program Files/Ampps/www"
+	SEARCH  2:"C:\/xampp2\/htdocs\/godwp" =======================> "C:\/Program Files\/Ampps\/www"
+	SEARCH  3:"C%3A%2Fxampp2%2Fhtdocs%2Fgodwp" ==================> "C%3A%2FProgram+Files%2FAmpps%2Fwww"
+	SEARCH  4:"C:\xampp2\htdocs\godwp" ==========================> "C:/Program Files/Ampps/www"
+	SEARCH  5:"C:\\xampp2\\htdocs\\godwp" =======================> "C:\/Program Files\/Ampps\/www"
+	SEARCH  6:"C%3A%5Cxampp2%5Chtdocs%5Cgodwp" ==================> "C%3A%2FProgram+Files%2FAmpps%2Fwww"
+	SEARCH  7:"//127.0.0.1/godwp" ===============================> "//localhost"
+	SEARCH  8:"\/\/127.0.0.1\/godwp" ============================> "\/\/localhost"
+	SEARCH  9:"%2F%2F127.0.0.1%2Fgodwp" =========================> "%2F%2Flocalhost"
+	SEARCH 10:"https://localhost" ===============================> "http://localhost"
+	SEARCH 11:"https:\/\/localhost" =============================> "http:\/\/localhost"
+	SEARCH 12:"https%3A%2F%2Flocalhost" =========================> "http%3A%2F%2Flocalhost"
+
+EVALUATE TABLE: "wp_actionscheduler_logs"_________________________[ROWS:     9][PG:   1][SCAN:text columns]
+	SEARCH  1:"C:/xampp2/htdocs/godwp" ==========================> "C:/Program Files/Ampps/www"
+	SEARCH  2:"C:\/xampp2\/htdocs\/godwp" =======================> "C:\/Program Files\/Ampps\/www"
+	SEARCH  3:"C%3A%2Fxampp2%2Fhtdocs%2Fgodwp" ==================> "C%3A%2FProgram+Files%2FAmpps%2Fwww"
+	SEARCH  4:"C:\xampp2\htdocs\godwp" ==========================> "C:/Program Files/Ampps/www"
+	SEARCH  5:"C:\\xampp2\\htdocs\\godwp" =======================> "C:\/Program Files\/Ampps\/www"
+	SEARCH  6:"C%3A%5Cxampp2%5Chtdocs%5Cgodwp" ==================> "C%3A%2FProgram+Files%2FAmpps%2Fwww"
+	SEARCH  7:"//127.0.0.1/godwp" ===============================> "//localhost"
+	SEARCH  8:"\/\/127.0.0.1\/godwp" ============================> "\/\/localhost"
+	SEARCH  9:"%2F%2F127.0.0.1%2Fgodwp" =========================> "%2F%2Flocalhost"
+	SEARCH 10:"https://localhost" ===============================> "http://localhost"
+	SEARCH 11:"https:\/\/localhost" =============================> "http:\/\/localhost"
+	SEARCH 12:"https%3A%2F%2Flocalhost" =========================> "http%3A%2F%2Flocalhost"
+
+EVALUATE TABLE: "wp_commentmeta"__________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_comments"_____________________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	SEARCH  1:"C:/xampp2/htdocs/godwp" ==========================> "C:/Program Files/Ampps/www"
+	SEARCH  2:"C:\/xampp2\/htdocs\/godwp" =======================> "C:\/Program Files\/Ampps\/www"
+	SEARCH  3:"C%3A%2Fxampp2%2Fhtdocs%2Fgodwp" ==================> "C%3A%2FProgram+Files%2FAmpps%2Fwww"
+	SEARCH  4:"C:\xampp2\htdocs\godwp" ==========================> "C:/Program Files/Ampps/www"
+	SEARCH  5:"C:\\xampp2\\htdocs\\godwp" =======================> "C:\/Program Files\/Ampps\/www"
+	SEARCH  6:"C%3A%5Cxampp2%5Chtdocs%5Cgodwp" ==================> "C%3A%2FProgram+Files%2FAmpps%2Fwww"
+	SEARCH  7:"//127.0.0.1/godwp" ===============================> "//localhost"
+	SEARCH  8:"\/\/127.0.0.1\/godwp" ============================> "\/\/localhost"
+	SEARCH  9:"%2F%2F127.0.0.1%2Fgodwp" =========================> "%2F%2Flocalhost"
+	SEARCH 10:"https://localhost" ===============================> "http://localhost"
+	SEARCH 11:"https:\/\/localhost" =============================> "http:\/\/localhost"
+	SEARCH 12:"https%3A%2F%2Flocalhost" =========================> "http%3A%2F%2Flocalhost"
+
+EVALUATE TABLE: "wp_duplicator_packages"__________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_links"________________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_options"______________________________________[ROWS:   388][PG:   1][SCAN:text columns]
+	SEARCH  1:"C:/xampp2/htdocs/godwp" ==========================> "C:/Program Files/Ampps/www"
+	SEARCH  2:"C:\/xampp2\/htdocs\/godwp" =======================> "C:\/Program Files\/Ampps\/www"
+	SEARCH  3:"C%3A%2Fxampp2%2Fhtdocs%2Fgodwp" ==================> "C%3A%2FProgram+Files%2FAmpps%2Fwww"
+	SEARCH  4:"C:\xampp2\htdocs\godwp" ==========================> "C:/Program Files/Ampps/www"
+	SEARCH  5:"C:\\xampp2\\htdocs\\godwp" =======================> "C:\/Program Files\/Ampps\/www"
+	SEARCH  6:"C%3A%5Cxampp2%5Chtdocs%5Cgodwp" ==================> "C%3A%2FProgram+Files%2FAmpps%2Fwww"
+	SEARCH  7:"//127.0.0.1/godwp" ===============================> "//localhost"
+	SEARCH  8:"\/\/127.0.0.1\/godwp" ============================> "\/\/localhost"
+	SEARCH  9:"%2F%2F127.0.0.1%2Fgodwp" =========================> "%2F%2Flocalhost"
+	SEARCH 10:"https://localhost" ===============================> "http://localhost"
+	SEARCH 11:"https:\/\/localhost" =============================> "http:\/\/localhost"
+	SEARCH 12:"https%3A%2F%2Flocalhost" =========================> "http%3A%2F%2Flocalhost"
+
+EVALUATE TABLE: "wp_postmeta"_____________________________________[ROWS:   329][PG:   1][SCAN:text columns]
+	SEARCH  1:"C:/xampp2/htdocs/godwp" ==========================> "C:/Program Files/Ampps/www"
+	SEARCH  2:"C:\/xampp2\/htdocs\/godwp" =======================> "C:\/Program Files\/Ampps\/www"
+	SEARCH  3:"C%3A%2Fxampp2%2Fhtdocs%2Fgodwp" ==================> "C%3A%2FProgram+Files%2FAmpps%2Fwww"
+	SEARCH  4:"C:\xampp2\htdocs\godwp" ==========================> "C:/Program Files/Ampps/www"
+	SEARCH  5:"C:\\xampp2\\htdocs\\godwp" =======================> "C:\/Program Files\/Ampps\/www"
+	SEARCH  6:"C%3A%5Cxampp2%5Chtdocs%5Cgodwp" ==================> "C%3A%2FProgram+Files%2FAmpps%2Fwww"
+	SEARCH  7:"//127.0.0.1/godwp" ===============================> "//localhost"
+	SEARCH  8:"\/\/127.0.0.1\/godwp" ============================> "\/\/localhost"
+	SEARCH  9:"%2F%2F127.0.0.1%2Fgodwp" =========================> "%2F%2Flocalhost"
+	SEARCH 10:"https://localhost" ===============================> "http://localhost"
+	SEARCH 11:"https:\/\/localhost" =============================> "http:\/\/localhost"
+	SEARCH 12:"https%3A%2F%2Flocalhost" =========================> "http%3A%2F%2Flocalhost"
+
+EVALUATE TABLE: "wp_posts"________________________________________[ROWS:    69][PG:   1][SCAN:text columns]
+	SEARCH  1:"C:/xampp2/htdocs/godwp" ==========================> "C:/Program Files/Ampps/www"
+	SEARCH  2:"C:\/xampp2\/htdocs\/godwp" =======================> "C:\/Program Files\/Ampps\/www"
+	SEARCH  3:"C%3A%2Fxampp2%2Fhtdocs%2Fgodwp" ==================> "C%3A%2FProgram+Files%2FAmpps%2Fwww"
+	SEARCH  4:"C:\xampp2\htdocs\godwp" ==========================> "C:/Program Files/Ampps/www"
+	SEARCH  5:"C:\\xampp2\\htdocs\\godwp" =======================> "C:\/Program Files\/Ampps\/www"
+	SEARCH  6:"C%3A%5Cxampp2%5Chtdocs%5Cgodwp" ==================> "C%3A%2FProgram+Files%2FAmpps%2Fwww"
+	SEARCH  7:"//127.0.0.1/godwp" ===============================> "//localhost"
+	SEARCH  8:"\/\/127.0.0.1\/godwp" ============================> "\/\/localhost"
+	SEARCH  9:"%2F%2F127.0.0.1%2Fgodwp" =========================> "%2F%2Flocalhost"
+	SEARCH 10:"https://localhost" ===============================> "http://localhost"
+	SEARCH 11:"https:\/\/localhost" =============================> "http:\/\/localhost"
+	SEARCH 12:"https%3A%2F%2Flocalhost" =========================> "http%3A%2F%2Flocalhost"
+
+EVALUATE TABLE: "wp_tcb_api_error_log"____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_td_fields"____________________________________[ROWS:    16][PG:   1][SCAN:text columns]
+	SEARCH  1:"C:/xampp2/htdocs/godwp" ==========================> "C:/Program Files/Ampps/www"
+	SEARCH  2:"C:\/xampp2\/htdocs\/godwp" =======================> "C:\/Program Files\/Ampps\/www"
+	SEARCH  3:"C%3A%2Fxampp2%2Fhtdocs%2Fgodwp" ==================> "C%3A%2FProgram+Files%2FAmpps%2Fwww"
+	SEARCH  4:"C:\xampp2\htdocs\godwp" ==========================> "C:/Program Files/Ampps/www"
+	SEARCH  5:"C:\\xampp2\\htdocs\\godwp" =======================> "C:\/Program Files\/Ampps\/www"
+	SEARCH  6:"C%3A%5Cxampp2%5Chtdocs%5Cgodwp" ==================> "C%3A%2FProgram+Files%2FAmpps%2Fwww"
+	SEARCH  7:"//127.0.0.1/godwp" ===============================> "//localhost"
+	SEARCH  8:"\/\/127.0.0.1\/godwp" ============================> "\/\/localhost"
+	SEARCH  9:"%2F%2F127.0.0.1%2Fgodwp" =========================> "%2F%2Flocalhost"
+	SEARCH 10:"https://localhost" ===============================> "http://localhost"
+	SEARCH 11:"https:\/\/localhost" =============================> "http:\/\/localhost"
+	SEARCH 12:"https%3A%2F%2Flocalhost" =========================> "http%3A%2F%2Flocalhost"
+
+EVALUATE TABLE: "wp_td_groups"____________________________________[ROWS:     3][PG:   1][SCAN:text columns]
+	SEARCH  1:"C:/xampp2/htdocs/godwp" ==========================> "C:/Program Files/Ampps/www"
+	SEARCH  2:"C:\/xampp2\/htdocs\/godwp" =======================> "C:\/Program Files\/Ampps\/www"
+	SEARCH  3:"C%3A%2Fxampp2%2Fhtdocs%2Fgodwp" ==================> "C%3A%2FProgram+Files%2FAmpps%2Fwww"
+	SEARCH  4:"C:\xampp2\htdocs\godwp" ==========================> "C:/Program Files/Ampps/www"
+	SEARCH  5:"C:\\xampp2\\htdocs\\godwp" =======================> "C:\/Program Files\/Ampps\/www"
+	SEARCH  6:"C%3A%5Cxampp2%5Chtdocs%5Cgodwp" ==================> "C%3A%2FProgram+Files%2FAmpps%2Fwww"
+	SEARCH  7:"//127.0.0.1/godwp" ===============================> "//localhost"
+	SEARCH  8:"\/\/127.0.0.1\/godwp" ============================> "\/\/localhost"
+	SEARCH  9:"%2F%2F127.0.0.1%2Fgodwp" =========================> "%2F%2Flocalhost"
+	SEARCH 10:"https://localhost" ===============================> "http://localhost"
+	SEARCH 11:"https:\/\/localhost" =============================> "http:\/\/localhost"
+	SEARCH 12:"https%3A%2F%2Flocalhost" =========================> "http%3A%2F%2Flocalhost"
+
+EVALUATE TABLE: "wp_term_relationships"___________________________[ROWS:    17][PG:   1][SCAN:text columns]
+	SEARCH  1:"C:/xampp2/htdocs/godwp" ==========================> "C:/Program Files/Ampps/www"
+	SEARCH  2:"C:\/xampp2\/htdocs\/godwp" =======================> "C:\/Program Files\/Ampps\/www"
+	SEARCH  3:"C%3A%2Fxampp2%2Fhtdocs%2Fgodwp" ==================> "C%3A%2FProgram+Files%2FAmpps%2Fwww"
+	SEARCH  4:"C:\xampp2\htdocs\godwp" ==========================> "C:/Program Files/Ampps/www"
+	SEARCH  5:"C:\\xampp2\\htdocs\\godwp" =======================> "C:\/Program Files\/Ampps\/www"
+	SEARCH  6:"C%3A%5Cxampp2%5Chtdocs%5Cgodwp" ==================> "C%3A%2FProgram+Files%2FAmpps%2Fwww"
+	SEARCH  7:"//127.0.0.1/godwp" ===============================> "//localhost"
+	SEARCH  8:"\/\/127.0.0.1\/godwp" ============================> "\/\/localhost"
+	SEARCH  9:"%2F%2F127.0.0.1%2Fgodwp" =========================> "%2F%2Flocalhost"
+	SEARCH 10:"https://localhost" ===============================> "http://localhost"
+	SEARCH 11:"https:\/\/localhost" =============================> "http:\/\/localhost"
+	SEARCH 12:"https%3A%2F%2Flocalhost" =========================> "http%3A%2F%2Flocalhost"
+
+EVALUATE TABLE: "wp_term_taxonomy"________________________________[ROWS:    19][PG:   1][SCAN:text columns]
+	SEARCH  1:"C:/xampp2/htdocs/godwp" ==========================> "C:/Program Files/Ampps/www"
+	SEARCH  2:"C:\/xampp2\/htdocs\/godwp" =======================> "C:\/Program Files\/Ampps\/www"
+	SEARCH  3:"C%3A%2Fxampp2%2Fhtdocs%2Fgodwp" ==================> "C%3A%2FProgram+Files%2FAmpps%2Fwww"
+	SEARCH  4:"C:\xampp2\htdocs\godwp" ==========================> "C:/Program Files/Ampps/www"
+	SEARCH  5:"C:\\xampp2\\htdocs\\godwp" =======================> "C:\/Program Files\/Ampps\/www"
+	SEARCH  6:"C%3A%5Cxampp2%5Chtdocs%5Cgodwp" ==================> "C%3A%2FProgram+Files%2FAmpps%2Fwww"
+	SEARCH  7:"//127.0.0.1/godwp" ===============================> "//localhost"
+	SEARCH  8:"\/\/127.0.0.1\/godwp" ============================> "\/\/localhost"
+	SEARCH  9:"%2F%2F127.0.0.1%2Fgodwp" =========================> "%2F%2Flocalhost"
+	SEARCH 10:"https://localhost" ===============================> "http://localhost"
+	SEARCH 11:"https:\/\/localhost" =============================> "http:\/\/localhost"
+	SEARCH 12:"https%3A%2F%2Flocalhost" =========================> "http%3A%2F%2Flocalhost"
+
+EVALUATE TABLE: "wp_termmeta"_____________________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	SEARCH  1:"C:/xampp2/htdocs/godwp" ==========================> "C:/Program Files/Ampps/www"
+	SEARCH  2:"C:\/xampp2\/htdocs\/godwp" =======================> "C:\/Program Files\/Ampps\/www"
+	SEARCH  3:"C%3A%2Fxampp2%2Fhtdocs%2Fgodwp" ==================> "C%3A%2FProgram+Files%2FAmpps%2Fwww"
+	SEARCH  4:"C:\xampp2\htdocs\godwp" ==========================> "C:/Program Files/Ampps/www"
+	SEARCH  5:"C:\\xampp2\\htdocs\\godwp" =======================> "C:\/Program Files\/Ampps\/www"
+	SEARCH  6:"C%3A%5Cxampp2%5Chtdocs%5Cgodwp" ==================> "C%3A%2FProgram+Files%2FAmpps%2Fwww"
+	SEARCH  7:"//127.0.0.1/godwp" ===============================> "//localhost"
+	SEARCH  8:"\/\/127.0.0.1\/godwp" ============================> "\/\/localhost"
+	SEARCH  9:"%2F%2F127.0.0.1%2Fgodwp" =========================> "%2F%2Flocalhost"
+	SEARCH 10:"https://localhost" ===============================> "http://localhost"
+	SEARCH 11:"https:\/\/localhost" =============================> "http:\/\/localhost"
+	SEARCH 12:"https%3A%2F%2Flocalhost" =========================> "http%3A%2F%2Flocalhost"
+
+EVALUATE TABLE: "wp_terms"________________________________________[ROWS:    19][PG:   1][SCAN:text columns]
+	SEARCH  1:"C:/xampp2/htdocs/godwp" ==========================> "C:/Program Files/Ampps/www"
+	SEARCH  2:"C:\/xampp2\/htdocs\/godwp" =======================> "C:\/Program Files\/Ampps\/www"
+	SEARCH  3:"C%3A%2Fxampp2%2Fhtdocs%2Fgodwp" ==================> "C%3A%2FProgram+Files%2FAmpps%2Fwww"
+	SEARCH  4:"C:\xampp2\htdocs\godwp" ==========================> "C:/Program Files/Ampps/www"
+	SEARCH  5:"C:\\xampp2\\htdocs\\godwp" =======================> "C:\/Program Files\/Ampps\/www"
+	SEARCH  6:"C%3A%5Cxampp2%5Chtdocs%5Cgodwp" ==================> "C%3A%2FProgram+Files%2FAmpps%2Fwww"
+	SEARCH  7:"//127.0.0.1/godwp" ===============================> "//localhost"
+	SEARCH  8:"\/\/127.0.0.1\/godwp" ============================> "\/\/localhost"
+	SEARCH  9:"%2F%2F127.0.0.1%2Fgodwp" =========================> "%2F%2Flocalhost"
+	SEARCH 10:"https://localhost" ===============================> "http://localhost"
+	SEARCH 11:"https:\/\/localhost" =============================> "http:\/\/localhost"
+	SEARCH 12:"https%3A%2F%2Flocalhost" =========================> "http%3A%2F%2Flocalhost"
+
+EVALUATE TABLE: "wp_usermeta"_____________________________________[ROWS:    39][PG:   1][SCAN:text columns]
+	SEARCH  1:"C:/xampp2/htdocs/godwp" ==========================> "C:/Program Files/Ampps/www"
+	SEARCH  2:"C:\/xampp2\/htdocs\/godwp" =======================> "C:\/Program Files\/Ampps\/www"
+	SEARCH  3:"C%3A%2Fxampp2%2Fhtdocs%2Fgodwp" ==================> "C%3A%2FProgram+Files%2FAmpps%2Fwww"
+	SEARCH  4:"C:\xampp2\htdocs\godwp" ==========================> "C:/Program Files/Ampps/www"
+	SEARCH  5:"C:\\xampp2\\htdocs\\godwp" =======================> "C:\/Program Files\/Ampps\/www"
+	SEARCH  6:"C%3A%5Cxampp2%5Chtdocs%5Cgodwp" ==================> "C%3A%2FProgram+Files%2FAmpps%2Fwww"
+	SEARCH  7:"//127.0.0.1/godwp" ===============================> "//localhost"
+	SEARCH  8:"\/\/127.0.0.1\/godwp" ============================> "\/\/localhost"
+	SEARCH  9:"%2F%2F127.0.0.1%2Fgodwp" =========================> "%2F%2Flocalhost"
+	SEARCH 10:"https://localhost" ===============================> "http://localhost"
+	SEARCH 11:"https:\/\/localhost" =============================> "http:\/\/localhost"
+	SEARCH 12:"https%3A%2F%2Flocalhost" =========================> "http%3A%2F%2Flocalhost"
+
+EVALUATE TABLE: "wp_users"________________________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	SEARCH  1:"C:/xampp2/htdocs/godwp" ==========================> "C:/Program Files/Ampps/www"
+	SEARCH  2:"C:\/xampp2\/htdocs\/godwp" =======================> "C:\/Program Files\/Ampps\/www"
+	SEARCH  3:"C%3A%2Fxampp2%2Fhtdocs%2Fgodwp" ==================> "C%3A%2FProgram+Files%2FAmpps%2Fwww"
+	SEARCH  4:"C:\xampp2\htdocs\godwp" ==========================> "C:/Program Files/Ampps/www"
+	SEARCH  5:"C:\\xampp2\\htdocs\\godwp" =======================> "C:\/Program Files\/Ampps\/www"
+	SEARCH  6:"C%3A%5Cxampp2%5Chtdocs%5Cgodwp" ==================> "C%3A%2FProgram+Files%2FAmpps%2Fwww"
+	SEARCH  7:"//127.0.0.1/godwp" ===============================> "//localhost"
+	SEARCH  8:"\/\/127.0.0.1\/godwp" ============================> "\/\/localhost"
+	SEARCH  9:"%2F%2F127.0.0.1%2Fgodwp" =========================> "%2F%2Flocalhost"
+	SEARCH 10:"https://localhost" ===============================> "http://localhost"
+	SEARCH 11:"https:\/\/localhost" =============================> "http:\/\/localhost"
+	SEARCH 12:"https%3A%2F%2Flocalhost" =========================> "http%3A%2F%2Flocalhost"
+
+EVALUATE TABLE: "wp_wc_admin_note_actions"________________________[ROWS:    11][PG:   1][SCAN:text columns]
+	SEARCH  1:"C:/xampp2/htdocs/godwp" ==========================> "C:/Program Files/Ampps/www"
+	SEARCH  2:"C:\/xampp2\/htdocs\/godwp" =======================> "C:\/Program Files\/Ampps\/www"
+	SEARCH  3:"C%3A%2Fxampp2%2Fhtdocs%2Fgodwp" ==================> "C%3A%2FProgram+Files%2FAmpps%2Fwww"
+	SEARCH  4:"C:\xampp2\htdocs\godwp" ==========================> "C:/Program Files/Ampps/www"
+	SEARCH  5:"C:\\xampp2\\htdocs\\godwp" =======================> "C:\/Program Files\/Ampps\/www"
+	SEARCH  6:"C%3A%5Cxampp2%5Chtdocs%5Cgodwp" ==================> "C%3A%2FProgram+Files%2FAmpps%2Fwww"
+	SEARCH  7:"//127.0.0.1/godwp" ===============================> "//localhost"
+	SEARCH  8:"\/\/127.0.0.1\/godwp" ============================> "\/\/localhost"
+	SEARCH  9:"%2F%2F127.0.0.1%2Fgodwp" =========================> "%2F%2Flocalhost"
+	SEARCH 10:"https://localhost" ===============================> "http://localhost"
+	SEARCH 11:"https:\/\/localhost" =============================> "http:\/\/localhost"
+	SEARCH 12:"https%3A%2F%2Flocalhost" =========================> "http%3A%2F%2Flocalhost"
+
+EVALUATE TABLE: "wp_wc_admin_notes"_______________________________[ROWS:    11][PG:   1][SCAN:text columns]
+	SEARCH  1:"C:/xampp2/htdocs/godwp" ==========================> "C:/Program Files/Ampps/www"
+	SEARCH  2:"C:\/xampp2\/htdocs\/godwp" =======================> "C:\/Program Files\/Ampps\/www"
+	SEARCH  3:"C%3A%2Fxampp2%2Fhtdocs%2Fgodwp" ==================> "C%3A%2FProgram+Files%2FAmpps%2Fwww"
+	SEARCH  4:"C:\xampp2\htdocs\godwp" ==========================> "C:/Program Files/Ampps/www"
+	SEARCH  5:"C:\\xampp2\\htdocs\\godwp" =======================> "C:\/Program Files\/Ampps\/www"
+	SEARCH  6:"C%3A%5Cxampp2%5Chtdocs%5Cgodwp" ==================> "C%3A%2FProgram+Files%2FAmpps%2Fwww"
+	SEARCH  7:"//127.0.0.1/godwp" ===============================> "//localhost"
+	SEARCH  8:"\/\/127.0.0.1\/godwp" ============================> "\/\/localhost"
+	SEARCH  9:"%2F%2F127.0.0.1%2Fgodwp" =========================> "%2F%2Flocalhost"
+	SEARCH 10:"https://localhost" ===============================> "http://localhost"
+	SEARCH 11:"https:\/\/localhost" =============================> "http:\/\/localhost"
+	SEARCH 12:"https%3A%2F%2Flocalhost" =========================> "http%3A%2F%2Flocalhost"
+
+EVALUATE TABLE: "wp_wc_category_lookup"___________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	SEARCH  1:"C:/xampp2/htdocs/godwp" ==========================> "C:/Program Files/Ampps/www"
+	SEARCH  2:"C:\/xampp2\/htdocs\/godwp" =======================> "C:\/Program Files\/Ampps\/www"
+	SEARCH  3:"C%3A%2Fxampp2%2Fhtdocs%2Fgodwp" ==================> "C%3A%2FProgram+Files%2FAmpps%2Fwww"
+	SEARCH  4:"C:\xampp2\htdocs\godwp" ==========================> "C:/Program Files/Ampps/www"
+	SEARCH  5:"C:\\xampp2\\htdocs\\godwp" =======================> "C:\/Program Files\/Ampps\/www"
+	SEARCH  6:"C%3A%5Cxampp2%5Chtdocs%5Cgodwp" ==================> "C%3A%2FProgram+Files%2FAmpps%2Fwww"
+	SEARCH  7:"//127.0.0.1/godwp" ===============================> "//localhost"
+	SEARCH  8:"\/\/127.0.0.1\/godwp" ============================> "\/\/localhost"
+	SEARCH  9:"%2F%2F127.0.0.1%2Fgodwp" =========================> "%2F%2Flocalhost"
+	SEARCH 10:"https://localhost" ===============================> "http://localhost"
+	SEARCH 11:"https:\/\/localhost" =============================> "http:\/\/localhost"
+	SEARCH 12:"https%3A%2F%2Flocalhost" =========================> "http%3A%2F%2Flocalhost"
+
+EVALUATE TABLE: "wp_wc_customer_lookup"___________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wc_download_log"______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wc_order_coupon_lookup"_______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wc_order_product_lookup"______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wc_order_stats"_______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wc_order_tax_lookup"__________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wc_product_meta_lookup"_______________________[ROWS:     6][PG:   1][SCAN:text columns]
+	SEARCH  1:"C:/xampp2/htdocs/godwp" ==========================> "C:/Program Files/Ampps/www"
+	SEARCH  2:"C:\/xampp2\/htdocs\/godwp" =======================> "C:\/Program Files\/Ampps\/www"
+	SEARCH  3:"C%3A%2Fxampp2%2Fhtdocs%2Fgodwp" ==================> "C%3A%2FProgram+Files%2FAmpps%2Fwww"
+	SEARCH  4:"C:\xampp2\htdocs\godwp" ==========================> "C:/Program Files/Ampps/www"
+	SEARCH  5:"C:\\xampp2\\htdocs\\godwp" =======================> "C:\/Program Files\/Ampps\/www"
+	SEARCH  6:"C%3A%5Cxampp2%5Chtdocs%5Cgodwp" ==================> "C%3A%2FProgram+Files%2FAmpps%2Fwww"
+	SEARCH  7:"//127.0.0.1/godwp" ===============================> "//localhost"
+	SEARCH  8:"\/\/127.0.0.1\/godwp" ============================> "\/\/localhost"
+	SEARCH  9:"%2F%2F127.0.0.1%2Fgodwp" =========================> "%2F%2Flocalhost"
+	SEARCH 10:"https://localhost" ===============================> "http://localhost"
+	SEARCH 11:"https:\/\/localhost" =============================> "http:\/\/localhost"
+	SEARCH 12:"https%3A%2F%2Flocalhost" =========================> "http%3A%2F%2Flocalhost"
+
+EVALUATE TABLE: "wp_wc_reserved_stock"____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wc_tax_rate_classes"__________________________[ROWS:     2][PG:   1][SCAN:text columns]
+	SEARCH  1:"C:/xampp2/htdocs/godwp" ==========================> "C:/Program Files/Ampps/www"
+	SEARCH  2:"C:\/xampp2\/htdocs\/godwp" =======================> "C:\/Program Files\/Ampps\/www"
+	SEARCH  3:"C%3A%2Fxampp2%2Fhtdocs%2Fgodwp" ==================> "C%3A%2FProgram+Files%2FAmpps%2Fwww"
+	SEARCH  4:"C:\xampp2\htdocs\godwp" ==========================> "C:/Program Files/Ampps/www"
+	SEARCH  5:"C:\\xampp2\\htdocs\\godwp" =======================> "C:\/Program Files\/Ampps\/www"
+	SEARCH  6:"C%3A%5Cxampp2%5Chtdocs%5Cgodwp" ==================> "C%3A%2FProgram+Files%2FAmpps%2Fwww"
+	SEARCH  7:"//127.0.0.1/godwp" ===============================> "//localhost"
+	SEARCH  8:"\/\/127.0.0.1\/godwp" ============================> "\/\/localhost"
+	SEARCH  9:"%2F%2F127.0.0.1%2Fgodwp" =========================> "%2F%2Flocalhost"
+	SEARCH 10:"https://localhost" ===============================> "http://localhost"
+	SEARCH 11:"https:\/\/localhost" =============================> "http:\/\/localhost"
+	SEARCH 12:"https%3A%2F%2Flocalhost" =========================> "http%3A%2F%2Flocalhost"
+
+EVALUATE TABLE: "wp_wc_webhooks"__________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_api_keys"_________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_attribute_taxonomies"_____________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_downloadable_product_permissions"_[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_ir"_______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_log"______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_order_itemmeta"___________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_order_items"______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_payment_tokenmeta"________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_payment_tokens"___________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_sessions"_________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	SEARCH  1:"C:/xampp2/htdocs/godwp" ==========================> "C:/Program Files/Ampps/www"
+	SEARCH  2:"C:\/xampp2\/htdocs\/godwp" =======================> "C:\/Program Files\/Ampps\/www"
+	SEARCH  3:"C%3A%2Fxampp2%2Fhtdocs%2Fgodwp" ==================> "C%3A%2FProgram+Files%2FAmpps%2Fwww"
+	SEARCH  4:"C:\xampp2\htdocs\godwp" ==========================> "C:/Program Files/Ampps/www"
+	SEARCH  5:"C:\\xampp2\\htdocs\\godwp" =======================> "C:\/Program Files\/Ampps\/www"
+	SEARCH  6:"C%3A%5Cxampp2%5Chtdocs%5Cgodwp" ==================> "C%3A%2FProgram+Files%2FAmpps%2Fwww"
+	SEARCH  7:"//127.0.0.1/godwp" ===============================> "//localhost"
+	SEARCH  8:"\/\/127.0.0.1\/godwp" ============================> "\/\/localhost"
+	SEARCH  9:"%2F%2F127.0.0.1%2Fgodwp" =========================> "%2F%2Flocalhost"
+	SEARCH 10:"https://localhost" ===============================> "http://localhost"
+	SEARCH 11:"https:\/\/localhost" =============================> "http:\/\/localhost"
+	SEARCH 12:"https%3A%2F%2Flocalhost" =========================> "http%3A%2F%2Flocalhost"
+
+EVALUATE TABLE: "wp_woocommerce_shipping_zone_locations"__________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_shipping_zone_methods"____________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_shipping_zones"___________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_tax_rate_locations"_______________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_tax_rates"________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_yith_wcwl"____________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_yith_wcwl_lists"______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+--------------------------------------
+SCANNED:	Tables:50 	|	 Rows:947 	|	 Cells:5486 
+UPDATED:	Tables:4 	|	 Rows:77 	|	 Cells:80 
+ERRORS:		0 
+RUNTIME:	0.536700 sec
+
+====================================
+REMOVE LICENSE KEY
+====================================
+
+====================================
+CREATE NEW ADMIN USER
+====================================
+
+NEW WP-ADMIN USER:
+- New username 'admin' was created successfully allong with MU usermeta.
+
+====================================
+CONFIGURATION FILE UPDATES
+====================================
+	UPDATE DB_NAME ""sunlands""
+	UPDATE DB_USER ""sunlands""
+	UPDATE DB_PASSWORD "** OBSCURED **"
+	UPDATE DB_HOST ""localhost""
+	REMOVE WPCACHEHOME
+	
+*** UPDATED WP CONFIG FILE ***
+
+====================================
+HTACCESS UPDATE MODE: "NEW"
+====================================
+- PASS: Successfully created a new .htaccess file.
+- PASS: Existing Apache '.htaccess__[HASH]' was removed
+
+====================================
+GENERAL UPDATES & CLEANUP
+====================================
+
+====================================
+DEACTIVATE PLUGINS CHECK
+====================================
+Deactivated plugins list here: Array
+(
+    [0] => really-simple-ssl/rlrsssl-really-simple-ssl.php
+    [1] => simple-google-recaptcha/simple-google-recaptcha.php
+    [2] => js_composer/js_composer.php
+)
+
+
+====================================
+NOTICES TEST
+====================================
+No General Notices Found
+
+
+====================================
+CLEANUP TMP FILES
+====================================
+
+====================================
+FINAL REPORT NOTICES
+====================================
+
+STEP-3 COMPLETE @ 12:33:37 - RUNTIME: 0.6630 sec. 
+
+
+====================================
+FINAL REPORT NOTICES LIST
+====================================
+-----------------------
+[INFO] No general notices
+	SECTIONS: general
+
+-----------------------
+[INFO] No errors in database
+	SECTIONS: database
+
+-----------------------
+[INFO] No search and replace data errors
+	SECTIONS: search_replace
+
+-----------------------
+[INFO] No files extraction errors
+	SECTIONS: files
+
+====================================

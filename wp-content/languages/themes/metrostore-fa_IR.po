@@ -1,0 +1,1060 @@
+# Translation of Themes - MetroStore in Persian
+# This file is distributed under the same license as the Themes - MetroStore package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-03-06 09:32:54+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: fa\n"
+"Project-Id-Version: Themes - MetroStore\n"
+
+#. Theme Name of the plugin/theme
+msgid "MetroStore"
+msgstr "مترواستور"
+
+#: sparklethemes/customizer/customizer.php:474
+msgid "Copyright"
+msgstr "کپی رایت"
+
+#: sparklethemes/customizer/customizer.php:370
+msgid "Pinterest"
+msgstr "پینترست"
+
+#: sparklethemes/customizer/customizer.php:334
+msgid "Social Media Link Settings"
+msgstr "تنظیمات لینک شبکه های اجتماعی"
+
+#: sparklethemes/customizer/customizer.php:376
+msgid "Youtube"
+msgstr "یوتیوب"
+
+#: sparklethemes/sparkle-widgets/tabs-defaults.php:54
+msgid "Latest Feature Area"
+msgstr "ناحیه آخرین امکانات"
+
+#: sparklethemes/sparkle-widgets/tabs-defaults.php:29
+msgid "Latest Products Area"
+msgstr "ناحیه آخرین محصول"
+
+#: sparklethemes/sparkle-widgets/tabs-defaults.php:80
+msgid "Latest On Sale Area"
+msgstr "آخرین ناحیه در فروش"
+
+#: sparklethemes/sparkle-widgets/tabs-defaults.php:105
+msgid "Latest Upsale Area"
+msgstr "ناحیه بالایی ، فروش محصولات"
+
+#: sparklethemes/customizer/customizer-pro/class-customize.php:77
+msgid "UPGRADE TO METROSTORE PRO"
+msgstr "ارتقا به مترو استور حرفه ای"
+
+#: sparklethemes/functions.php:305
+msgid "404 Page Nothing Found"
+msgstr "خطای 404 صفحه ای یافت نشد "
+
+#: sparklethemes/functions.php:340
+msgid "Search Results for : %1$s"
+msgstr "نتایج جستجو برای: %1$s"
+
+#: sparklethemes/customizer/customizer.php:456
+msgid "Metrostore HomePage Widget"
+msgstr "صفحه اصلی ابزارک های مترو استور"
+
+#: functions.php:146
+msgid "Displays widgets on Front/Home page. Note : First Create Page and Select \"Page Attributes Template\"( Home Page ) then Please go to Setting => Reading, Select \"A static page\" then \"Front page\" and add widgets to show on Home Page"
+msgstr "ویدجت ها را در صفحه Front / Home نمایش می دهد. توجه: ابتدا صفحه را ایجاد کنید و صفحه \"Template Attributes Page\" را انتخاب کنید (صفحه اصلی) سپس به تنظیمات => خواندن بروید، \"صفحه استاتیک\" را انتخاب کنید و سپس \"صفحه اول\" و اضافه کردن ویدجت برای نشان دادن در صفحه اصلی"
+
+#: functions.php:143
+msgid "Displays widgets on home page main content area.%1$s Note : Please go to %2$s \"Static Front Page\"%3$s setting, Select \"A static page\" then \"Front page\" and \"Posts page\" to show added widgets"
+msgstr "ویدجت ها را در صفحه اصلی صفحه اصلی محتوا اصلی نمایش می دهد.%1$s توجه: لطفا به صفحه%2$s\"صفحه اصلی استاتیک\"%3$s بروید، صفحه \"Static page\" را انتخاب کنید و سپس \"Front page\" و \"Posts page\" را نشان می دهد ویدجت اضافه شده است"
+
+#: sparklethemes/hooks/woocommerce.php:252
+msgid "shopping cart"
+msgstr "سبد خرید"
+
+#: sparklethemes/admin/about-theme/metrostore-about.php:537
+msgid "View Pro"
+msgstr "نمایش پرو"
+
+#: sparklethemes/admin/about-theme/metrostore-about.php:528
+msgid "Advance Breadcrumbs"
+msgstr "پیشگویی خرده نان"
+
+#: sparklethemes/admin/about-theme/metrostore-about.php:522
+msgid "Footer Copyright"
+msgstr "کپی رایت پاورقی"
+
+#: sparklethemes/admin/about-theme/metrostore-about.php:516
+msgid "Revolution Slider"
+msgstr "اسلایدر انقلاب "
+
+#: sparklethemes/admin/about-theme/metrostore-about.php:510
+msgid "Testimonial"
+msgstr "گواهی نامه"
+
+#: sparklethemes/admin/about-theme/metrostore-about.php:500
+msgid "4"
+msgstr "4"
+
+#: sparklethemes/admin/about-theme/metrostore-about.php:498
+msgid "Blog Layouts"
+msgstr "طرح بندی وبلاگ"
+
+#: sparklethemes/admin/about-theme/metrostore-about.php:488
+msgid "19"
+msgstr "19"
+
+#: sparklethemes/admin/about-theme/metrostore-about.php:457
+msgid "$55"
+msgstr "$55"
+
+#: sparklethemes/admin/about-theme/metrostore-about.php:471
+#: sparklethemes/admin/about-theme/metrostore-about.php:499
+msgid "1"
+msgstr "1"
+
+#: sparklethemes/admin/about-theme/metrostore-about.php:472
+msgid "6"
+msgstr "6"
+
+#: sparklethemes/admin/about-theme/metrostore-about.php:478
+msgid "600+"
+msgstr "600+"
+
+#: sparklethemes/admin/about-theme/metrostore-about.php:487
+msgid "7"
+msgstr "7"
+
+#: sparklethemes/admin/about-theme/metrostore-about.php:33
+#: sparklethemes/admin/about-theme/metrostore-about.php:108
+msgid "About"
+msgstr "درباره"
+
+#: sparklethemes/admin/about-theme/metrostore-about.php:67
+msgid "Action failed. Please refresh the page and retry."
+msgstr "اقدام انجام نشد لطفا صفحه را بروزرسانی و دوباره امتحان کنید."
+
+#: sparklethemes/admin/about-theme/metrostore-about.php:317
+msgid "Activate"
+msgstr "فعال سازی"
+
+#: sparklethemes/admin/about-theme/metrostore-about.php:279
+msgid "Active"
+msgstr "فعال"
+
+#: sparklethemes/admin/about-theme/metrostore-about.php:185
+msgid "All Theme Options are available via Customize screen."
+msgstr "همه گزینه های تم از طریق صفحه سفارشی در دسترس هستند."
+
+#: sparklethemes/admin/about-theme/metrostore-about.php:131
+msgid "Buy Now"
+msgstr "هم اکنون خریداری کنید"
+
+#: sparklethemes/admin/about-theme/metrostore-about.php:150
+msgid "Changelog"
+msgstr "تغییرات"
+
+#: sparklethemes/admin/about-theme/metrostore-about.php:71
+msgid "Cheatin&#8217; huh?"
+msgstr "چیتین &#8217; خب?"
+
+#: sparklethemes/admin/about-theme/metrostore-about.php:220
+msgid "Click below to translate this theme into your own language."
+msgstr "برای ترجمه این پوسته به زبان خود،بر روی لینک زیر کلیک کنید."
+
+#: sparklethemes/admin/about-theme/metrostore-about.php:210
+msgid "Customization"
+msgstr "سفارشی سازی"
+
+#: sparklethemes/admin/about-theme/metrostore-about.php:186
+#: sparklethemes/admin/about-theme/metrostore-about.php:281
+msgid "Customize"
+msgstr "شخصی سازی"
+
+#: sparklethemes/admin/about-theme/metrostore-about.php:85
+msgid "Dismiss"
+msgstr "رد"
+
+#: sparklethemes/admin/about-theme/metrostore-about.php:448
+msgid "Features"
+msgstr "ویژگی ها"
+
+#: sparklethemes/admin/about-theme/metrostore-about.php:456
+msgid "Free"
+msgstr "رایگان"
+
+#: sparklethemes/admin/about-theme/metrostore-about.php:142
+msgid "Free Vs Pro"
+msgstr "رایگان در مقابل حرفه ای"
+
+#: sparklethemes/admin/about-theme/metrostore-about.php:88
+msgid "Get started with metrostore"
+msgstr "با مترو استور شروع کنید"
+
+#: sparklethemes/admin/about-theme/metrostore-about.php:239
+msgid "Go to Dashboard"
+msgstr "به داشبورد بروید"
+
+#: sparklethemes/admin/about-theme/metrostore-about.php:239
+msgid "Go to Dashboard &rarr; Home"
+msgstr "به داشبورد بروید و rarr؛ خانه"
+
+#: sparklethemes/admin/about-theme/metrostore-about.php:476
+msgid "Google Fonts"
+msgstr "فونت های گوگل"
+
+#: sparklethemes/admin/about-theme/metrostore-about.php:196
+msgid "Got theme support question?"
+msgstr "به بخش پشتیبانی و سوال تم بروید؟"
+
+#: sparklethemes/admin/about-theme/metrostore-about.php:208
+msgid "Have you need customization?"
+msgstr "آیا شما نیاز به سفارشی سازی دارید؟"
+
+#: sparklethemes/admin/about-theme/metrostore-about.php:470
+msgid "Header Layouts"
+msgstr "طرح بندی سربرگ"
+
+#: sparklethemes/admin/about-theme/metrostore-about.php:460
+msgid "Import Demo Data"
+msgstr "وارد کردن داده های نسخه ی نمایشی"
+
+#: sparklethemes/admin/about-theme/metrostore-about.php:326
+msgid "Install Now"
+msgstr "الان نصب کنید"
+
+#: sparklethemes/admin/about-theme/metrostore-about.php:329
+msgid "Live Preview"
+msgstr "نمایش زنده"
+
+#: sparklethemes/admin/about-theme/metrostore-about.php:146
+msgid "More Themes"
+msgstr "پوسته های بیشتر"
+
+#: sparklethemes/admin/about-theme/metrostore-about.php:202
+msgid "Need more features?"
+msgstr "نیاز به امکانات بیشتر"
+
+#: sparklethemes/admin/about-theme/metrostore-about.php:486
+msgid "No. of Widgets"
+msgstr "نوع .ابزارک ها"
+
+#: sparklethemes/admin/about-theme/metrostore-about.php:197
+msgid "Please put it in our dedicated support forum."
+msgstr "لطفا آن را در انجمن پشتیبانی اختصاصی خود قرار دهید."
+
+#: sparklethemes/admin/about-theme/metrostore-about.php:209
+msgid "Please send message with your requirement."
+msgstr "لطفا پیام ضروری خود را ارسال کنید."
+
+#: sparklethemes/admin/about-theme/metrostore-about.php:191
+msgid "Please view our documentation page to setup the theme."
+msgstr "لطفا صفحه مستندات ما را برای راه اندازی پوسته ببینید."
+
+#: sparklethemes/admin/about-theme/metrostore-about.php:465
+msgid "Pre Loaders"
+msgstr "پیش بارگیری"
+
+#: sparklethemes/admin/about-theme/metrostore-about.php:455
+msgid "Price"
+msgstr "قیمت"
+
+#: sparklethemes/admin/about-theme/metrostore-about.php:133
+msgid "Pro View Demo"
+msgstr "پیش نمایش نسخه حرفه ای"
+
+#: sparklethemes/admin/about-theme/metrostore-about.php:127
+msgid "Rate this theme"
+msgstr "به این موضوع رای دهید"
+
+#: sparklethemes/admin/about-theme/metrostore-about.php:236
+msgid "Return to Dashboard &rarr; Updates"
+msgstr "بازگشت به داشبورد & rarr؛ به روز رسانی ها"
+
+#: sparklethemes/admin/about-theme/metrostore-about.php:236
+msgid "Return to Updates"
+msgstr "بازگشت به بروز رسانی"
+
+#: sparklethemes/admin/about-theme/metrostore-about.php:198
+msgid "Support"
+msgstr "پشتیبانی"
+
+#: sparklethemes/admin/about-theme/metrostore-about.php:504
+msgid "Team Member"
+msgstr "عضو تیم"
+
+#: sparklethemes/admin/about-theme/metrostore-about.php:184
+msgid "Theme Customizer"
+msgstr "سفارشی سازی تم"
+
+#: sparklethemes/admin/about-theme/metrostore-about.php:123
+msgid "Theme Info"
+msgstr "اطلاعات تم"
+
+#: sparklethemes/admin/about-theme/metrostore-about.php:216
+#: sparklethemes/admin/about-theme/metrostore-about.php:224
+msgid "Translate"
+msgstr "ترجمه"
+
+#: sparklethemes/admin/about-theme/metrostore-about.php:481
+msgid "Typography Options"
+msgstr "گزینه تایپوگرافی"
+
+#: sparklethemes/admin/about-theme/metrostore-about.php:492
+msgid "Unlimited Colors"
+msgstr "رنگ نامحدود"
+
+#: sparklethemes/admin/about-theme/metrostore-about.php:203
+#: sparklethemes/admin/about-theme/metrostore-about.php:443
+msgid "Upgrade to PRO version for more exciting features."
+msgstr "ارتقا به نسخه حرفه ای برای ویژگی های هیجان انگیز تر."
+
+#: sparklethemes/admin/about-theme/metrostore-about.php:125
+msgid "View Demo"
+msgstr "نمایش دمو"
+
+#: sparklethemes/admin/about-theme/metrostore-about.php:129
+#: sparklethemes/admin/about-theme/metrostore-about.php:204
+msgid "View PRO version"
+msgstr "نمایش نسخه حرفه ای"
+
+#: sparklethemes/admin/about-theme/metrostore-about.php:391
+msgid "View changelog below:"
+msgstr "مشاهده تغییرات زیر را ببینید:"
+
+#: sparklethemes/admin/about-theme/metrostore-about.php:449
+msgid "metrostore"
+msgstr "مترو استور"
+
+#: sparklethemes/admin/about-theme/metrostore-about.php:450
+msgid "metrostore Pro"
+msgstr "مترو استور حرفه ای"
+
+#: sparklethemes/admin/about-theme/metrostore-about.php:86
+msgid "Welcome! Thank you for choosing metrostore! To fully take advantage of the best our theme can offer please make sure you visit our %1$swelcome page%2$s."
+msgstr "خوش آمدید! با تشکر از شما برای انتخاب متروستور! برای استفاده کامل از بهترین تم ما می توانید لطفا مطمئن شوید که از صفحه %1$s خوش آمدید %2$s بازدید می کنید."
+
+#: sparklethemes/admin/about-theme/metrostore-about.php:190
+#: sparklethemes/admin/about-theme/metrostore-about.php:192
+#: sparklethemes/customizer/customizer.php:33
+msgid "Documentation"
+msgstr "مستندات"
+
+#: sparklethemes/customizer/customizer.php:22
+msgid "Important Links"
+msgstr "لینک های مهم"
+
+#: sparklethemes/customizer/customizer.php:33
+msgid "Like Us in Facebook"
+msgstr "پسندیدن ما در فیس بوک"
+
+#: sparklethemes/customizer/customizer.php:33
+msgid "Live Demo"
+msgstr "پیش نمایش زنده"
+
+#: sparklethemes/customizer/customizer.php:44
+msgid "Rate/Review"
+msgstr "نرخ / بررسی"
+
+#: sparklethemes/customizer/customizer.php:33
+msgid "Support Forum"
+msgstr "انجمن پشتیبانی"
+
+#: sparklethemes/sparkle-widgets/blogs-widget.php:121
+msgid "% Comments"
+msgstr "% نظرات"
+
+#: sparklethemes/functions.php:379
+msgid "%1$s at %2$s"
+msgstr "%1$s در %2$s"
+
+#. translators: used between list items, there is a space after the comma
+#: sparklethemes/core/template-tags.php:50
+#: sparklethemes/core/template-tags.php:56
+msgid ", "
+msgstr ","
+
+#: sparklethemes/sparkle-widgets/blogs-widget.php:121
+msgid "0 Comment"
+msgstr "0 نظر"
+
+#: sparklethemes/sparkle-widgets/blogs-widget.php:121
+msgid "1 Comment"
+msgstr "1 نظر"
+
+#: 404.php:22
+msgid "404"
+msgstr "404"
+
+#: sparklethemes/functions.php:377
+msgid "<h4 class=\"media-heading\">%s</h4>"
+msgstr "<h4 class=\"media-heading\">%s</h4>"
+
+#: sparklethemes/sparkle-widgets/contact-form-info.php:18
+msgid "A widget that display the quick contact form."
+msgstr "ابزارکی که فرم تماس سریع را نمایش می دهد."
+
+#: sparklethemes/sparkle-widgets/promo-video.php:18
+msgid "A widget that promote your busincess."
+msgstr "ابزارکی که کسب و کار شما را تبلیغ می کند."
+
+#: sparklethemes/sparkle-widgets/about-section.php:18
+msgid "A widget that shows about info with services"
+msgstr "یک ابزارک که در مورد اطلاعات با خدمات نشان می دهد"
+
+#: sparklethemes/sparkle-widgets/products-area.php:18
+msgid "A widget that shows woocommerce all type product (Latest, Feature, On Sale, Up Sale) and selected category products"
+msgstr "یک ابزارک که نشان می دهد ووکامرس تمام نوع محصول (آخرین، ویژگی، در فروش، حراج) و محصولات طبقه بندی شده انتخاب شده است"
+
+#: sparklethemes/sparkle-widgets/blogs-widget.php:18
+msgid "A widget that shows wordpress default posts"
+msgstr "یک ابزارک که پست های پیش فرض وردپرس را نشان می دهد"
+
+#: sparklethemes/sparkle-widgets/quick-contact-info.php:18
+msgid "A widget that shows your contact information"
+msgstr "یک ابزارک که اطلاعات تماس شما را نشان می دهد"
+
+#: sparklethemes/sparkle-widgets/skills-section.php:18
+msgid "A widget that shows your skills."
+msgstr "یک ابزارک که مهارت های شما را نشان می دهد."
+
+#: comments.php:90
+msgid "ADD COMMENT"
+msgstr "افزودن نظر"
+
+#: sparklethemes/functions.php:213
+msgid "Add to Compare"
+msgstr "اضافه برای مقایسه"
+
+#: sparklethemes/functions.php:145
+msgid "Add to Wishlist"
+msgstr "اضافه به علاقه مندی ها"
+
+#: functions.php:124 functions.php:134 functions.php:161 functions.php:171
+#: functions.php:181 functions.php:191 functions.php:201
+msgid "Add widgets here."
+msgstr "ابزارک ها را اینجا اضافه کنید"
+
+#: sparklethemes/customizer/customizer.php:188
+msgid "Address"
+msgstr "آدرس"
+
+#: 404.php:29 template-parts/content-none.php:35
+msgid "Back To Home"
+msgstr "بازگشت به خانه"
+
+#: sparklethemes/customizer/customizer.php:133
+#: sparklethemes/customizer/customizer.php:503
+msgid "Boxed Layout"
+msgstr "چیدمان پوسته"
+
+#: sparklethemes/customizer/customizer.php:300
+msgid "Breadcrumbs Settings"
+msgstr "تنظیمات خرده نان"
+
+#: sparklethemes/sparkle-widgets/category-collection.php:115
+#: sparklethemes/sparkle-widgets/products-area.php:26
+msgid "Category"
+msgstr "دسته بندی"
+
+#: sparklethemes/customizer/customizer.php:312
+msgid "Check to Enable the Breadcrumbs"
+msgstr "برای فعال کردن پخت و پز چک کنید"
+
+#: sparklethemes/customizer/customizer.php:406
+msgid "Check to show in new tab"
+msgstr "برای نشان دادن در برگه جدید، بررسی کنید"
+
+#: sparklethemes/sparkle-widgets/tabs-defaults.php:60
+msgid "Checked Display Feature Products"
+msgstr "نمایش محصولات ویژگی های نمایش"
+
+#: sparklethemes/sparkle-widgets/tabs-defaults.php:35
+msgid "Checked Display Latest Products"
+msgstr "نمایش آخرین محصولات نمایش داده شده"
+
+#: sparklethemes/sparkle-widgets/tabs-defaults.php:86
+msgid "Checked Display Onsale Products"
+msgstr "نمایش داده شده در حراج محصولات بررسی شده است"
+
+#: sparklethemes/sparkle-widgets/tabs-defaults.php:111
+msgid "Checked Display UpSale Products"
+msgstr "محصولات بازرسی را نمایش می دهد"
+
+#: comments.php:87
+msgid "Comment *"
+msgstr "* نظر"
+
+#: comments.php:40 comments.php:52
+msgid "Comment navigation"
+msgstr "ناوبری نظر"
+
+#: comments.php:29
+msgid "Comments"
+msgstr "نظرات"
+
+#: comments.php:69
+msgid "Comments are closed."
+msgstr "نظرات بسته شده اند."
+
+#: sparklethemes/functions.php:209
+msgid "Compare"
+msgstr "مقایسه"
+
+#: sparklethemes/customizer/customizer.php:486
+msgid "Copyright Text"
+msgstr "متن کپی رایت"
+
+#: sparklethemes/customizer/customizer.php:435
+#: sparklethemes/customizer/customizer.php:519
+msgid "Disable"
+msgstr "غیرفعال کردن"
+
+#: sparklethemes/functions.php:403
+msgid "Display Layout Options"
+msgstr "نمایش گزینه های طرح بندی "
+
+#. translators: %s: Name of current post
+#: sparklethemes/core/template-tags.php:72
+msgid "Edit %s"
+msgstr "ویرایش %s"
+
+#: sparklethemes/customizer/customizer.php:164
+msgid "Email Address"
+msgstr "آدرس ایمیل"
+
+#: comments.php:80
+msgid "Email Address *"
+msgstr "آدرس ایمیل *"
+
+#: sparklethemes/customizer/customizer.php:434
+#: sparklethemes/customizer/customizer.php:518
+msgid "Enable"
+msgstr "فعال کردن"
+
+#: sparklethemes/customizer/customizer.php:430
+msgid "Enable/Disable HomePage Slider"
+msgstr "فعال / غیرفعال کردن اسلایدر در صفحه اصلی "
+
+#: sparklethemes/sparkle-widgets/about-section.php:49
+#: sparklethemes/sparkle-widgets/about-section.php:64
+#: sparklethemes/sparkle-widgets/about-section.php:79
+#: sparklethemes/sparkle-widgets/about-section.php:93
+msgid "Enter Font Awesome Icon Class"
+msgstr "کلاس آیکون بسیار جذاب فونت را وارد کنید"
+
+#: sparklethemes/sparkle-widgets/contact-form-info.php:47
+msgid "Enter Formo Shortcode"
+msgstr "فرم شورت کد را وارد کنید"
+
+#: sparklethemes/sparkle-widgets/blogs-widget.php:54
+msgid "Enter Number of Posts Show"
+msgstr "تعداد پست ها برای نمایش را وارد کنید"
+
+#: sparklethemes/sparkle-widgets/products-area.php:84
+#: sparklethemes/sparkle-widgets/tabs-category.php:59
+#: sparklethemes/sparkle-widgets/tabs-defaults.php:130
+msgid "Enter Number of Products Show"
+msgstr "تعداد محصولات برای  نمایش را وارد کنید"
+
+#: sparklethemes/sparkle-widgets/skills-section.php:47
+#: sparklethemes/sparkle-widgets/skills-section.php:60
+#: sparklethemes/sparkle-widgets/skills-section.php:72
+#: sparklethemes/sparkle-widgets/skills-section.php:83
+msgid "Enter Skills Title"
+msgstr "عنوان مهارت را وارد کنید"
+
+#: sparklethemes/sparkle-widgets/quick-contact-info.php:46
+msgid "Enter Your Address"
+msgstr "آدرس خود را وارد کنید"
+
+#: sparklethemes/sparkle-widgets/quick-contact-info.php:52
+msgid "Enter Your Email Address"
+msgstr "آدرس ایمیل خود را وارد کنید"
+
+#: sparklethemes/sparkle-widgets/quick-contact-info.php:58
+msgid "Enter Your Phone Number"
+msgstr "شماره تلفن خود را وارد کنید"
+
+#: sparklethemes/sparkle-widgets/skills-section.php:52
+#: sparklethemes/sparkle-widgets/skills-section.php:65
+#: sparklethemes/sparkle-widgets/skills-section.php:77
+#: sparklethemes/sparkle-widgets/skills-section.php:88
+msgid "Enter Your Skills Percentage Number"
+msgstr "تعداد درصد مهارت های خود را وارد کنید"
+
+#: sparklethemes/sparkle-widgets/promo-video.php:40
+msgid "Enter Youtube Video Url"
+msgstr "آدرس یوتیوب ویدیو را وارد کنید"
+
+#: sparklethemes/customizer/customizer.php:340
+msgid "Facebook"
+msgstr "فیس بوک"
+
+#: sparklethemes/sparkle-widgets/products-area.php:28
+msgid "Feature Product"
+msgstr "ویژگی محصول"
+
+#: sparklethemes/customizer/customizer.php:222
+msgid "First Services Icon"
+msgstr "نماد اولین خدمت"
+
+#: sparklethemes/customizer/customizer.php:234
+msgid "First Services Title"
+msgstr "عنوان اولین خدمت"
+
+#: sparklethemes/customizer/customizer.php:464
+msgid "Footer Settings Area"
+msgstr "ناحیه تنظیمات پاورقی"
+
+#: functions.php:199
+msgid "Footer Widget Area Five"
+msgstr "ناحیه ویجت 5 پاورقی"
+
+#: functions.php:189
+msgid "Footer Widget Area Four"
+msgstr "ناحیه ویجت 4 پاورقی"
+
+#: functions.php:159
+msgid "Footer Widget Area One"
+msgstr "ناحیه ویجت 1 پاورقی"
+
+#: functions.php:179
+msgid "Footer Widget Area Three"
+msgstr "ناحیه ویجت 3 پاورقی"
+
+#: functions.php:169
+msgid "Footer Widget Area Two"
+msgstr "ناحیه ویجت 2 پاورقی"
+
+#: sparklethemes/customizer/customizer.php:134
+#: sparklethemes/customizer/customizer.php:504
+msgid "Full Width Layout"
+msgstr "طرح بندی عرض کامل"
+
+#: sparklethemes/functions.php:425
+msgid "Full width"
+msgstr "تمام عرض"
+
+#: sparklethemes/customizer/customizer.php:97
+msgid "General Settings"
+msgstr "تنظیمات عمومی"
+
+#: sparklethemes/customizer/customizer.php:352
+msgid "Google-Plus"
+msgstr "گوگل پلاس"
+
+#: sparklethemes/customizer/customizer.php:209
+msgid "Header Services Area"
+msgstr "ناحیه خدمات سربرگ"
+
+#: sparklethemes/customizer/customizer.php:143
+msgid "Header Settings Area"
+msgstr "ناحیه تنظیمات سربرگ"
+
+#: sparklethemes/functions.php:282
+msgid "Home"
+msgstr "خانه"
+
+#. Template Name of the plugin/theme
+msgid "Home Page"
+msgstr "صفحه اصلی"
+
+#: sparklethemes/customizer/customizer.php:419
+msgid "Home Slider Settings"
+msgstr "تنظیمات اسلایدر صفحه اصلی"
+
+#: sparklethemes/customizer/customizer.php:358
+msgid "Instagram"
+msgstr "اینستاگرام"
+
+#: template-parts/content-none.php:27
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "به نظر می رسد ما می توانیم چیزی را پیدا کنیم که به دنبال آن هستیم. شاید جستجو بتواند کمک کند."
+
+#: sparklethemes/sparkle-widgets/products-area.php:25
+msgid "Latest Product"
+msgstr "آخرین محصول"
+
+#: sparklethemes/functions.php:415
+msgid "Left Sidebar"
+msgstr "نوار کناری چپ"
+
+#: functions.php:132
+msgid "Left Sidebar Widget Area"
+msgstr "ناحیه ویجت ها در نوار چپ"
+
+#: sparklethemes/customizer/customizer.php:364
+msgid "Linkedin"
+msgstr "لینکداین"
+
+#: sparklethemes/hooks/header.php:130
+msgid "Log In"
+msgstr "ورود"
+
+#: sparklethemes/hooks/header.php:121
+msgid "Log Out"
+msgstr "خروج"
+
+#: sparklethemes/sparkle-widgets/about-section.php:17
+msgid "MS: About Section"
+msgstr "MS: بخش درباره ما"
+
+#: sparklethemes/sparkle-widgets/blogs-widget.php:17
+msgid "MS: Blogs Posts"
+msgstr "MS: مطالب وبلاگ"
+
+#: sparklethemes/sparkle-widgets/contact-form-info.php:17
+msgid "MS: Contact Form Area"
+msgstr "MS: ناحیه فرم تماس با ما"
+
+#: sparklethemes/sparkle-widgets/promo-video.php:17
+msgid "MS: Promo Video Area"
+msgstr "MS: ناحیه ویدئو تبلیغاتی"
+
+#: sparklethemes/sparkle-widgets/quick-contact-info.php:17
+msgid "MS: Quick Contact Info"
+msgstr "MS: اطلاعات تماس سریع"
+
+#: sparklethemes/sparkle-widgets/skills-section.php:17
+msgid "MS: Skills Section"
+msgstr "MS: بخش مهارت ها"
+
+#: sparklethemes/sparkle-widgets/category-collection.php:17
+msgid "MS: Woo Category Collection"
+msgstr "MS: مجموعه دسته بندی ووکامرس"
+
+#: sparklethemes/sparkle-widgets/tabs-defaults.php:17
+msgid "MS: Woo Defaults Tabs"
+msgstr "MS: زبانه های پیش فرض ووکامرس"
+
+#: sparklethemes/sparkle-widgets/products-area.php:17
+msgid "MS: Woo Products Area"
+msgstr "MS: ناحیه محصولات ووکامرس"
+
+#: sparklethemes/sparkle-widgets/tabs-category.php:17
+msgid "MS: Woo Tabs Category"
+msgstr "MS: دسته بدنی تب های ووکامرس"
+
+#: sparklethemes/hooks/header.php:213
+msgid "Menu"
+msgstr "منو"
+
+#: functions.php:150
+msgid "Metrostore HomePage Widget Area"
+msgstr "ناحیه ویجت صفحه اصلی مترو استور"
+
+#: sparklethemes/hooks/header.php:114
+msgid "My Account"
+msgstr "حساب من"
+
+#: comments.php:76
+msgid "Name *"
+msgstr "*نام"
+
+#: sparklethemes/hooks/woocommerce.php:55
+#: sparklethemes/sparkle-widgets/products-area.php:119
+#: sparklethemes/sparkle-widgets/tabs-defaults.php:198
+#: sparklethemes/sparkle-widgets/tabs-defaults.php:221
+#: sparklethemes/sparkle-widgets/tabs-defaults.php:246
+#: sparklethemes/sparkle-widgets/tabs-defaults.php:285
+msgid "New"
+msgstr "جدید"
+
+#: comments.php:44 comments.php:56
+msgid "Newer Comments"
+msgstr "نظرات جدید"
+
+#: archive.php:39 index.php:43 search.php:39
+msgid "Next"
+msgstr "بعدی"
+
+#: sparklethemes/sparkle-widgets/widgets-fields.php:286
+msgid "No file chosen"
+msgstr "هیچ فایلی انتخاب نشده"
+
+#: comments.php:43 comments.php:55
+msgid "Older Comments"
+msgstr "نظرات قبلی"
+
+#: sparklethemes/sparkle-widgets/products-area.php:29
+msgid "OnSale Product"
+msgstr "محصول فروشی"
+
+#: 404.php:24
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "اوپس! این صفحه می تواند یافت شود."
+
+#: sparklethemes/customizer/customizer.php:200
+msgid "Opening Time"
+msgstr "زمان بازگشایی"
+
+#: sparklethemes/sparkle-widgets/quick-contact-info.php:104
+msgid "Our Address"
+msgstr "آدرس ما"
+
+#: sparklethemes/sparkle-widgets/about-section.php:47
+#: sparklethemes/sparkle-widgets/about-section.php:62
+#: sparklethemes/sparkle-widgets/about-section.php:77
+#: sparklethemes/sparkle-widgets/about-section.php:91
+msgid "Our Services Area Icon"
+msgstr "ناحیه نماد خدمات ما"
+
+#: sparklethemes/sparkle-widgets/quick-contact-info.php:108
+msgid "Our mail"
+msgstr "ایمیل ما"
+
+#: sparklethemes/sparkle-widgets/quick-contact-info.php:112
+msgid "Our phone"
+msgstr "تلفن ما"
+
+#: template-parts/content-page.php:19 template-parts/content-single.php:32
+msgid "Pages:"
+msgstr "صفحات:"
+
+#: sparklethemes/customizer/customizer.php:176
+msgid "Phone Number"
+msgstr "شماره تلفن"
+
+#: archive.php:38 index.php:42 search.php:38
+msgid "Prev"
+msgstr "پیش از"
+
+#: functions.php:51
+msgid "Primary"
+msgstr "اولیه"
+
+#: sparklethemes/customizer/customizer.php:154
+msgid "Quick Contact Info"
+msgstr "اطلاعات تماس سریع"
+
+#: sparklethemes/functions.php:229
+msgid "Quick View"
+msgstr "مشاهده سریع"
+
+#: sparklethemes/sparkle-widgets/blogs-widget.php:124
+msgid "Read More"
+msgstr "ادامه مطلب"
+
+#: template-parts/content-search.php:49 template-parts/content.php:49
+msgid "Read more"
+msgstr "ادامه مطلب"
+
+#: sparklethemes/hooks/header.php:224
+msgid "Recently added item(s)"
+msgstr "اخیرا (ها) اضافه شده"
+
+#: sparklethemes/hooks/header.php:137
+msgid "Register"
+msgstr "ثبت نام"
+
+#: functions.php:313 sparklethemes/sparkle-widgets/widgets-fields.php:292
+msgid "Remove"
+msgstr "حذف"
+
+#: sparklethemes/functions.php:420
+msgid "Right (Default)"
+msgstr "راست (پیش فرض)"
+
+#: functions.php:122
+msgid "Right Sidebar Widget Area"
+msgstr "راست ،ابزارک نوار کناری"
+
+#: sparklethemes/hooks/woocommerce.php:50
+msgid "Sale"
+msgstr "فروش"
+
+#: sparklethemes/customizer/customizer.php:260
+msgid "Second Services Icon"
+msgstr "نماد خدمت دوم"
+
+#: sparklethemes/customizer/customizer.php:273
+msgid "Second Services Title"
+msgstr "عنوان خدمت دوم"
+
+#: sparklethemes/sparkle-widgets/widgets-fields.php:14
+msgid "Select Categories"
+msgstr "انتخاب دسته بندی"
+
+#: sparklethemes/sparkle-widgets/products-area.php:78
+msgid "Select Category"
+msgstr "دسته را انتخاب کنید"
+
+#: sparklethemes/sparkle-widgets/category-collection.php:65
+msgid "Select Lists Collection Category"
+msgstr "لیست دسته بندی مجموعه ها را انتخاب کنید"
+
+#: sparklethemes/sparkle-widgets/widgets-fields.php:30
+msgid "Select Pages"
+msgstr "انتخاب صفحات"
+
+#: sparklethemes/sparkle-widgets/blogs-widget.php:48
+msgid "Select Posts Category"
+msgstr "انتخاب  گروه مطالب"
+
+#: sparklethemes/sparkle-widgets/products-area.php:52
+msgid "Select Product Category"
+msgstr "انتخاب دسته بندی محصولات"
+
+#: sparklethemes/sparkle-widgets/products-area.php:72
+msgid "Select Product Type"
+msgstr "انتخاب نوع محصول"
+
+#: sparklethemes/sparkle-widgets/about-section.php:54
+#: sparklethemes/sparkle-widgets/about-section.php:69
+#: sparklethemes/sparkle-widgets/about-section.php:84
+#: sparklethemes/sparkle-widgets/about-section.php:98
+msgid "Select Services Page"
+msgstr "صفحه خدمات را انتخاب کنید"
+
+#: sparklethemes/customizer/customizer.php:445
+msgid "Select Slide Category"
+msgstr "انتخاب دسته اسلاید "
+
+#: sparklethemes/sparkle-widgets/tabs-category.php:52
+msgid "Select Tabs Category"
+msgstr "دسته زبانه ها را انتخاب کنید"
+
+#: sparklethemes/customizer/customizer.php:246
+#: sparklethemes/customizer/customizer.php:285
+msgid "Services Very Short Description"
+msgstr "توضیحات بسیار کوتاه خدمات "
+
+#: sparklethemes/hooks/woocommerce.php:255
+msgid "Shopping Cart"
+msgstr "سبد خرید"
+
+#: sparklethemes/hooks/header.php:22
+msgid "Skip to content"
+msgstr "پرش به محتوا"
+
+#: template-parts/content-none.php:22
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "با عرض پوزش، اما هیچ چیز مطابق با شرایط جستجوی شما نبود. لطفا با برخی از کلمات کلیدی مختلف دوباره امتحان کنید."
+
+#: sparklethemes/customizer/customizer.php:293
+msgid "Theme Colors Settings"
+msgstr "تنظیمات رنگ تم"
+
+#: sparklethemes/customizer/customizer.php:106
+msgid "Themes Colors"
+msgstr "رنگ های تم"
+
+#: sparklethemes/sparkle-widgets/about-section.php:28
+#: sparklethemes/sparkle-widgets/blogs-widget.php:42
+#: sparklethemes/sparkle-widgets/category-collection.php:52
+#: sparklethemes/sparkle-widgets/contact-form-info.php:34
+#: sparklethemes/sparkle-widgets/products-area.php:61
+#: sparklethemes/sparkle-widgets/promo-video.php:28
+#: sparklethemes/sparkle-widgets/quick-contact-info.php:28
+#: sparklethemes/sparkle-widgets/skills-section.php:28
+#: sparklethemes/sparkle-widgets/tabs-defaults.php:41
+#: sparklethemes/sparkle-widgets/tabs-defaults.php:66
+#: sparklethemes/sparkle-widgets/tabs-defaults.php:92
+#: sparklethemes/sparkle-widgets/tabs-defaults.php:117
+msgid "Title"
+msgstr "عنوان"
+
+#: sparklethemes/customizer/customizer.php:346
+msgid "Twitter"
+msgstr "توئیتر"
+
+#: sparklethemes/sparkle-widgets/products-area.php:27
+msgid "UpSell Product"
+msgstr "محصول پرفروش"
+
+#: sparklethemes/sparkle-widgets/widgets-fields.php:295
+msgid "Upgrade your version of WordPress for full media support."
+msgstr "نسخه ی وردپرس خود را برای پشتیبانی کامل رسانه ها ارتقا دهید."
+
+#: functions.php:312 sparklethemes/sparkle-widgets/widgets-fields.php:290
+msgid "Upload"
+msgstr "آپلود"
+
+#: sparklethemes/sparkle-widgets/contact-form-info.php:28
+msgid "Upload Background Image"
+msgstr "آپلود تصویر پس زمینه"
+
+#: sparklethemes/customizer/customizer.php:324
+msgid "Upload Breadcrumbs Background Image"
+msgstr "آپلود تصویر پس زمینه Breadcrumbs "
+
+#: sparklethemes/sparkle-widgets/about-section.php:34
+#: sparklethemes/sparkle-widgets/category-collection.php:58
+#: sparklethemes/sparkle-widgets/contact-form-info.php:40
+#: sparklethemes/sparkle-widgets/products-area.php:66
+#: sparklethemes/sparkle-widgets/promo-video.php:33
+#: sparklethemes/sparkle-widgets/quick-contact-info.php:34
+#: sparklethemes/sparkle-widgets/skills-section.php:34
+msgid "Very Short Description"
+msgstr "شرح بسیار کوتاه"
+
+#: sparklethemes/sparkle-widgets/widgets-fields.php:310
+msgid "View File"
+msgstr "نمایش فایل"
+
+#: sparklethemes/customizer/customizer.php:129
+msgid "Web Layout Options"
+msgstr "گزینه های طرح بندی وب"
+
+#: sparklethemes/customizer/customizer.php:117
+msgid "WebLayout Options"
+msgstr "گزینه های طرح بندی وب"
+
+#: sparklethemes/functions.php:178
+msgid "Wishlist"
+msgstr "لیست علاقه مندی ها"
+
+#: sparklethemes/functions.php:373
+msgid "Your comment is awaiting moderation."
+msgstr "نظر شما در انتظار تایید است."
+
+#: sparklethemes/core/template-tags.php:33
+msgctxt "post author"
+msgid "by %s"
+msgstr "توسط %s"
+
+#: sparklethemes/sparkle-widgets/category-collection.php:18
+msgid "widget that show woocommerce category collection with feature image"
+msgstr "ویجت که مجموعه مجموعه ووکامرس را با ویژگی تصویر نشان می دهد"
+
+#: sparklethemes/sparkle-widgets/tabs-category.php:18
+msgid "widget that show woocommerce category products in tabs formats"
+msgstr "ویجت که محصولات طبقه بندی ووکامرس را در فرمت های زبانه نشان می دهد"
+
+#: sparklethemes/sparkle-widgets/tabs-defaults.php:18
+msgid "widget that show woocommerce default latest, features, on sale, on sale products in tabs formats"
+msgstr "ویجت که به طور پیش فرض ووکامرس آخرین، ویژگی ها، در فروش، در محصولات فروش در فرمت های زبانه نشان می دهد"
+
+#: sparklethemes/customizer/customizer.php:221
+#: sparklethemes/customizer/customizer.php:259
+msgid "Use font awesome icon: Eg: %1$s. %2$sSee more here%3$s"
+msgstr "استفاده از فونت آیکون عالی: به عنوان مثال:%1$s. %2$s بیشتر در اینجا%3$s مشاهده کنید"
+
+#: sparklethemes/core/template-tags.php:28
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "ارسال شده در %s"
+
+#: sparklethemes/functions.php:303
+msgid "Search Results for: %s"
+msgstr "نتایج جستجو برای: %s"
+
+#: sparklethemes/core/template-tags.php:58
+msgid "Tagged %1$s"
+msgstr "برچسب  %1$s"
+
+#. Author URI of the plugin/theme
+msgid "http://sparklewpthemes.com/"
+msgstr "http://sparklewpthemes.com/"
+
+#. Theme URI of the plugin/theme
+msgid "http://sparklewpthemes.com/wordpress-themes/metrostore"
+msgstr "http://sparklewpthemes.com/wordpress-themes/metrostore"
+
+#. Author of the plugin/theme
+msgid "sparklewpthemes"
+msgstr "sparklewpthemes"
